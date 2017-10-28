@@ -570,5 +570,5 @@ var FrontGuide = {
 
             ]
         }],
-    },{"pageT1":"test","pageC1":[{"pageT2":"666","pageC2":[{'Name':'看我屌不屌'，"Title":'title','Href':'www.baidu.com'}]}]}],
+    },],
 }
