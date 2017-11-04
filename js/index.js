@@ -8,9 +8,8 @@ $(document).ready(function(){
     for(sum1 in FrontGuide['main']){
         oBject = FrontGuide['main'][sum1];
         var oPageT1 = oBject['pageT1'];
-        nav_lists = '<a href="#page_' + sum1 + '" class="nav_list"><li>' + oPageT1 + '</li></a>';
+        nav_lists = '<a href="#page_' +  + '" class="nav_list"><li>' + oPageT1 + '</li></a>';
         oNavs+= nav_lists;
-        console.log(oNavs);
         var pageC1 = oBject['pageC1'];
 
         oFronts += '<div id="_page_' + sum1 + '" class="content_list"><div class="content_list_title">' + oPageT1 + '</div><div class="content_list_main"><div class="main_classify">';
