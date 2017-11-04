@@ -10,7 +10,6 @@ $(document).ready(function(){
         var oPageT1 = oBject['pageT1'];
         nav_lists = '<a href="#page_' + sum1 + '" class="nav_list"><li>' + oPageT1 + '</li></a>';
         oNavs+= nav_lists;
-
         var pageC1 = oBject['pageC1'];
 
         oFronts += '<div id="_page_' + sum1 + '" class="content_list"><div class="content_list_title">' + oPageT1 + '</div><div class="content_list_main"><div class="main_classify">';
