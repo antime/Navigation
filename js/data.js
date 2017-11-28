@@ -359,6 +359,7 @@ var FrontGuide = {
                 {'Name':'Internet Archive: Wayback Machine','Title':'网站历史快照','Href':'https://archive.org/web/'},
                 {'Name':'xss-scan','Title':'在线xss扫描','Href':'http://xss-scanner.com/'},
                 {'Name':'XSS\'OR','Title':'Hack with JavaScript','Href':'http://xssor.io/'},
+                {'Name':'在线渗透测试','Title':'pentest-tools','Href':'https://pentest-tools.com/information-gathering/google-hacking'},
             ]
         }]},{
         "pageT1":"实用工具",
@@ -551,6 +552,7 @@ var FrontGuide = {
 				{'Name':'Polar Snow','Title':'花有重开日 人无再少年','Href':'https://docs.lvrui.io/'},
 				{'Name':'Atum','Title':'Hack and code for FUN!','Href':'http://gcli.cn/'},
 				{'Name':'不发光的博客','Title':'Stay Hungry. Stay Foolish','Href':'https://lightless.me/'},
+                {'Name':'雨苁','Title':'专注于安全研究','Href':'http://www.ddosi.com/'},
 
 
 
