@@ -292,7 +292,7 @@ var FrontGuide = {
                 {'Name':'Mac爱情守望者','Title':'我们不破解软件，我们只是优秀软件的搬运工','Href':'http://www.waitsun.com/'},
                 {'Name':'Mac渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'},
                 {'Name':'Awesome Mac','Title':' Mac开发者 ','Href':'https://github.com/GcsSloop/MacDeveloper'},
-                {'Name':'mac工具收集','Title':'小弟调调 ','Href':'http://wangchujiang.com/awesome-mac/index.zh.html',"New":"1"},
+                {'Name':'小弟调调','Title':'mac常用工具收集 ','Href':'http://wangchujiang.com/awesome-mac/index.zh.html',"New":"1"},
 
             ]
             },{
