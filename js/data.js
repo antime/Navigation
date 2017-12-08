@@ -148,7 +148,8 @@ var FrontGuide = {
                 {'Name':'欢聚时代SRC','Title':'欢聚时代安全应急响应中心','Href':'http://security.yy.com/'},
                 {'Name':'竞技世界SRC','Title':'竞技世界安全应急响应中心','Href':'https://security.jj.cn/'},
                 {'Name':'万能钥匙SRC','Title':'万能钥匙安全应急响应中心','Href':'https://sec.wifi.com/'},
-                {'Name':'东方财富SRC','Title':'东方财富安全应急响应中心','Href':'https://security.eastmoney.com/'}
+                {'Name':'东方财富SRC','Title':'东方财富安全应急响应中心','Href':'https://security.eastmoney.com/'},
+                {'Name':'银联SRC','Title':'银联安全应急响应中心','Href':'https://security.unionpay.com/','New':'1'},
 
             ]
             },{
