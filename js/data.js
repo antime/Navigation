@@ -557,6 +557,8 @@ var FrontGuide = {
                 {'Name':'不发光的博客','Title':'Stay Hungry. Stay Foolish','Href':'https://lightless.me/'},
                 {'Name':'雨苁','Title':'专注于安全研究','Href':'http://www.ddosi.com/'},
                 {'Name':'s0m30ne','Title':'专注于安全研究','Href':'http://s0m30ne.com/'},
+                {'Name':'klion','Title':'多年实战渗透经验积累[大中小型网络] + 娴熟的底层及脚本编写能力 + 熟练的协议分析能力 + 多个大中型安全架构实际设计部署经验 + 良好的逆向分析能力[一定的0day挖掘能力] = 合格安全架构师','Href':'https://klionsec.github.io/',"New":"1"},
+                {'Name':'Elephant And Balloon','Title':'专注于安全研究和运维之道','Href':'http://topspeedsnail.com/',"New":"1"},
 
 
 
