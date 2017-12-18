@@ -16,6 +16,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
+                {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"},
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
                 {'Name':'安全客','Title':'有思想的安全新媒体','Href':'http://bobao.360.cn/'},
@@ -559,6 +560,7 @@ var FrontGuide = {
                 {'Name':'s0m30ne','Title':'专注于安全研究','Href':'http://s0m30ne.com/'},
                 {'Name':'klion','Title':'多年实战渗透经验积累[大中小型网络] + 娴熟的底层及脚本编写能力 + 熟练的协议分析能力 + 多个大中型安全架构实际设计部署经验 + 良好的逆向分析能力[一定的0day挖掘能力] = 合格安全架构师','Href':'https://klionsec.github.io/',"New":"1"},
                 {'Name':'Elephant And Balloon','Title':'专注于安全研究和运维之道','Href':'http://topspeedsnail.com/',"New":"1"},
+                {'Name':'HackingDev','Title':'新浪云高级开发者，蚂蚁金服36w奖励获得者白帽子,CplusHua','Href':'https://www.219.me/',"New":"1"},
 
 
 
