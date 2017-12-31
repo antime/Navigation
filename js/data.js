@@ -494,6 +494,7 @@ var FrontGuide = {
             },{
             "pageT2":"个人博客",
             "pageC2":[
+                {'Name':'余弦','Title':'在宇宙的历史长河中，我们渺小到绝望。但这不应该是我们该操心的事。','Href':'http://evilcos.me/',"New":"1"},
                 {'Name':'Lijiejie','Title':'依然在路上','Href':'http://www.lijiejie.com/'},
                 {'Name':'Phithon','Title':'长期存在与分享关于网络安全与各种编程的原创文章','Href':'https://www.leavesongs.com/'},
                 {'Name':'4ido10n','Title':'I choose to be a hacker just because it s fun.','Href':'https://www.hackfun.org'},
