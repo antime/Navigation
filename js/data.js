@@ -562,7 +562,8 @@ var FrontGuide = {
                 {'Name':'klion','Title':'多年实战渗透经验积累[大中小型网络] + 娴熟的底层及脚本编写能力 + 熟练的协议分析能力 + 多个大中型安全架构实际设计部署经验 + 良好的逆向分析能力[一定的0day挖掘能力] = 合格安全架构师','Href':'https://klionsec.github.io/',"New":"1"},
                 {'Name':'Elephant And Balloon','Title':'专注于安全研究和运维之道','Href':'http://topspeedsnail.com/',"New":"1"},
                 {'Name':'HackingDev','Title':'新浪云高级开发者，蚂蚁金服36w奖励获得者白帽子,CplusHua','Href':'https://www.219.me/',"New":"1"},
-
+                {'Name':'邪恶十六进制','Title':'邪恶十六进制（Evil0x.COM）是一个为极客爱好者，信息安全爱好者，提供交流的地方。主题有：渗透测试，入侵取证、漏洞挖掘 ，web安全，树莓派等','Href':'http://www.evil0x.com/',"New":"1"},
+                {'Name':'离别歌','Title':'前乌云核心白帽子、混迹于各大社区的伪装程序猿，喜欢各种代码与审计、linux运维与内网、python web开发。','Href':'https://www.leavesongs.com/',"New":"1"},
 
 
 				
