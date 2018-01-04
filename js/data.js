@@ -16,6 +16,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
+                {'Name':'安全周','Title':'网络安全的资讯，漏洞，招聘，沙龙等信息报道','Href':'https://www.secz.org/',"New":"1"},
                 {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"},
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
