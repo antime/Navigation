@@ -565,6 +565,7 @@ var FrontGuide = {
                 {'Name':'HackingDev','Title':'新浪云高级开发者，蚂蚁金服36w奖励获得者白帽子,CplusHua','Href':'https://www.219.me/',"New":"1"},
                 {'Name':'邪恶十六进制','Title':'邪恶十六进制（Evil0x.COM）是一个为极客爱好者，信息安全爱好者，提供交流的地方。主题有：渗透测试，入侵取证、漏洞挖掘 ，web安全，树莓派等','Href':'http://www.evil0x.com/',"New":"1"},
                 {'Name':'离别歌','Title':'前乌云核心白帽子、混迹于各大社区的伪装程序猿，喜欢各种代码与审计、linux运维与内网、python web开发。','Href':'https://www.leavesongs.com/',"New":"1"},
+                {'Name':'崔庆才个人博客','Title':'专注于爬虫和代码开发','Href':'https://cuiqingcai.com/',"New":"1"},
 
 
 				
