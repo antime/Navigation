@@ -31,7 +31,8 @@ var FrontGuide = {
                 {'Name':'先知社区','Title':'安全技术社区','Href':'https://xianzhi.aliyun.com/forum/?spm=a2c0h.8049718.0.0.qoviZO'},
                 {'Name':'91Ri','Title':'91Ri','Href':'https://www.91ri.org/'},
                 {'Name':'ThreatHunter','Title':'一个专注于高级威胁发现与安全数据分析的社区','Href':'https://threathunter.org/'},
-                {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'}
+                {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'},
+                {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://www.secevery.com:4321/drops'}
 
             ]
             },{
