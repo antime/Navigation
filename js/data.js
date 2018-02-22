@@ -34,6 +34,7 @@ var FrontGuide = {
                 {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'},
                 {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://www.secevery.com:4321/drops'},
                 {'Name':'破壳','Title':'授权型的乌云','Href':'https://pockr.org/'},
+                {'Name':'红日攻防实验室','Title':'红日攻防实验室','Href':'http://sec-redclub.com/'},
 
             ]
             },{
