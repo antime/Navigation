@@ -32,7 +32,8 @@ var FrontGuide = {
                 {'Name':'91Ri','Title':'91Ri','Href':'https://www.91ri.org/'},
                 {'Name':'ThreatHunter','Title':'一个专注于高级威胁发现与安全数据分析的社区','Href':'https://threathunter.org/'},
                 {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'},
-                {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://www.secevery.com:4321/drops'}
+                {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://www.secevery.com:4321/drops'},
+                {'Name':'破壳','Title':'授权型的乌云','Href':'https://pockr.org/'},
 
             ]
             },{
@@ -497,7 +498,8 @@ var FrontGuide = {
             "pageT2":"个人博客",
             "pageC2":[
                 {'Name':'余弦','Title':'在宇宙的历史长河中，我们渺小到绝望。但这不应该是我们该操心的事。','Href':'http://evilcos.me/',"New":"1"},
-                {'Name':'Lijiejie','Title':'依然在路上','Href':'http://www.lijiejie.com/'},
+                {'Name':'Lijiejie','Title':'301依然在路上','Href':'http://www.lijiejie.com/'},
+                {'Name':'倾旋的博客','Title':'倾旋的博客','Href':'http://payloads.online/'},
                 {'Name':'Phithon','Title':'长期存在与分享关于网络安全与各种编程的原创文章','Href':'https://www.leavesongs.com/'},
                 {'Name':'4ido10n','Title':'I choose to be a hacker just because it s fun.','Href':'https://www.hackfun.org'},
                 {'Name':'潇水一飞','Title':'社会工程学-安全体系中的人性漏洞','Href':'https://www.sgzsec.com/'},
@@ -567,6 +569,7 @@ var FrontGuide = {
                 {'Name':'邪恶十六进制','Title':'邪恶十六进制（Evil0x.COM）是一个为极客爱好者，信息安全爱好者，提供交流的地方。主题有：渗透测试，入侵取证、漏洞挖掘 ，web安全，树莓派等','Href':'http://www.evil0x.com/',"New":"1"},
                 {'Name':'离别歌','Title':'前乌云核心白帽子、混迹于各大社区的伪装程序猿，喜欢各种代码与审计、linux运维与内网、python web开发。','Href':'https://www.leavesongs.com/',"New":"1"},
                 {'Name':'崔庆才个人博客','Title':'专注于爬虫和代码开发','Href':'https://cuiqingcai.com/',"New":"1"},
+                {'Name':'Lz1yBlog','Title':'安全博客','Href':'http://www.lz1y.cn/'},
 
 
 				
