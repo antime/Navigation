@@ -16,6 +16,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
+                {'Name':'hackerone','Title':'hacker101','Href':'https://www.hackerone.com/hacker101/'},
                 {'Name':'安全周','Title':'网络安全的资讯，漏洞，招聘，沙龙等信息报道','Href':'https://www.secz.org/',"New":"1"},
                 {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"},
@@ -299,6 +300,7 @@ var FrontGuide = {
                 {'Name':'Mac渗透工具','Title':'Mac平台渗透测试工具集','Href':'http://www.asuri.co/class/archives/936'},
                 {'Name':'Awesome Mac','Title':' Mac开发者 ','Href':'https://github.com/GcsSloop/MacDeveloper'},
                 {'Name':'小弟调调','Title':'mac常用工具收集 ','Href':'http://wangchujiang.com/awesome-mac/index.zh.html',"New":"1"},
+                {'Name':'xclient','Title':'Mac常用工具','Href':'http://xclient.info/'},
 
             ]
             },{
@@ -368,6 +370,7 @@ var FrontGuide = {
                 {'Name':'xss-scan','Title':'在线xss扫描','Href':'http://xss-scanner.com/'},
                 {'Name':'XSS\'OR','Title':'Hack with JavaScript','Href':'http://xssor.io/'},
                 {'Name':'在线渗透测试','Title':'pentest-tools','Href':'https://pentest-tools.com/information-gathering/google-hacking'},
+                {'Name':'黑客的FUZZ军火库','Title':'hi0x0.com 的FUZZ军火库','Href':'http://fuzz.hi0x0.com/'},
             ]
         }]},{
         "pageT1":"实用工具",
