@@ -170,7 +170,7 @@ var FrontGuide = {
                 {'Name':'PwnHub','Title':'仰望未知的0 1世界 碰撞你的极客思维','Href':'https://pwnhub.cn/index/'}
             ]
         }]},{
-        "pageT1":"云维圈",
+        "pageT1":"运维圈",
         "pageC1":[{
             "pageT2":"主机运维",
             "pageC2":[
@@ -178,7 +178,7 @@ var FrontGuide = {
 
             ]
             },{
-            "pageT2":"虚拟化",
+            "pageT2":"云运维",
             "pageC2":[
                 {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
             ]
