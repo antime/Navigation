@@ -170,6 +170,19 @@ var FrontGuide = {
                 {'Name':'PwnHub','Title':'仰望未知的0 1世界 碰撞你的极客思维','Href':'https://pwnhub.cn/index/'}
             ]
         }]},{
+        "pageT1":"云维圈",
+        "pageC1":[{
+            "pageT2":"主机运维",
+            "pageC2":[
+                {'Name':'360威胁情报中心','Title':'威胁情报中心','Href':'https://ti.360.com/'},
+
+            ]
+            },{
+            "pageT2":"虚拟化",
+            "pageC2":[
+                {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
+            ]
+        }]},{
         "pageT1":"在线教育",
         "pageC1":[{
             "pageT2":"在线学习",
