@@ -182,6 +182,11 @@ var FrontGuide = {
             "pageC2":[
                 {'Name':'Twitter','Title':'推特情报','Href':'https://twitter.com/'},
             ]
+        },{
+            "pageT2":"架构设计",
+            "pageC2":[
+                {'Name':'k8s','Title':'k8s','Href':'http://www.maogx.win'},
+            ]
         }]},{
         "pageT1":"在线教育",
         "pageC1":[{
