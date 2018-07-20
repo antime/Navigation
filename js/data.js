@@ -593,6 +593,7 @@ var FrontGuide = {
                 {'Name':'离别歌','Title':'前乌云核心白帽子、混迹于各大社区的伪装程序猿，喜欢各种代码与审计、linux运维与内网、python web开发。','Href':'https://www.leavesongs.com/',"New":"1"},
                 {'Name':'崔庆才个人博客','Title':'专注于爬虫和代码开发','Href':'https://cuiqingcai.com/',"New":"1"},
                 {'Name':'Lz1yBlog','Title':'安全博客','Href':'http://www.lz1y.cn/'},
+                {'Name':'5kik','Title':'5kik','Href':'http://www.5kik.com/'},
 
 
 				
