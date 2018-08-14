@@ -175,6 +175,7 @@ var FrontGuide = {
             "pageT2":"主机运维",
             "pageC2":[
                 {'Name':'360威胁情报中心','Title':'威胁情报中心','Href':'https://ti.360.com/'},
+                {'Name':'360威胁情报中心','Title':'威胁情报中心','Href':'https://ti.360.com/'},
 
             ]
             },{
