@@ -17,11 +17,12 @@ var FrontGuide = {
             "pageT2":"安全门户",
             "pageC2":[
                 
-                {'Name':'安全牛','Title':'安全牛','Href':'https://www.aqniu.com/'},
+                {'Name':'安全牛','Title':'安全牛','Href':'https://www.aqniu.com/',"New":"1"},
                 {'Name':'安全周','Title':'网络安全的资讯，漏洞，招聘，沙龙等信息报道','Href':'https://www.secz.org/',"New":"1"},
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"},
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
                 {'Name':'安全客','Title':'有思想的安全新媒体','Href':'http://bobao.360.cn/'},
+                {'Name':'指尖安全','Title':'指尖安全','Href':'https://www.secfree.com/',"New":"1"},
                 {'Name':'圈子','Title':'这是一个白帽子的汇集地','Href':'https://www.secquan.org/Login'},
                 {'Name':'嘶吼','Title':'回归最本质的信息安全,互联网安全新媒体','Href':'http://www.4hou.com/'},
                 {'Name':'安全脉搏','Title':'分享技术，悦享品质','Href':'https://www.secpulse.com/'},
@@ -38,6 +39,12 @@ var FrontGuide = {
                 {'Name':'红日攻防实验室','Title':'红日攻防实验室','Href':'http://sec-redclub.com/'},
                 {'Name':'hackerone','Title':'hacker101','Href':'https://www.hackerone.com/hacker101/'},
                 {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
+                {'Name':'thehackernews','Title':'thehackernews','Href':'https://thehackernews.com/',"New":"1"},
+                {'Name':'ehackingnews','Title':'ehackingnews','Href':'http://www.ehackingnews.com/',"New":"1"},
+                {'Name':'securityweek','Title':'securityweek','Href':'https://www.securityweek.com/',"New":"1"},
+                {'Name':'hackernews','Title':'hackernews','Href':'http://hackernews.cc/',"New":"1"},
+                {'Name':'漏洞时代','Title':'漏洞时代','Href':'http://0day5.com/',"New":"1"},
+
 
 
             ]
