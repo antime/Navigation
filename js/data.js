@@ -16,10 +16,9 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
-                {'Name':'hackerone','Title':'hacker101','Href':'https://www.hackerone.com/hacker101/'},
-                {'Name':'k8s','Title':'k8s','Href':'http://www.maogx.win/'},
+                
+                {'Name':'安全牛','Title':'安全牛','Href':'https://www.aqniu.com/'},
                 {'Name':'安全周','Title':'网络安全的资讯，漏洞，招聘，沙龙等信息报道','Href':'https://www.secz.org/',"New":"1"},
-                {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
                 {'Name':'MottoIN','Title':'信安舆情早知道','Href':'http://www.mottoin.com/',"New":"1"},
                 {'Name':'Freebuf','Title':'关注黑客与极客','Href':'http://www.freebuf.com/'},
                 {'Name':'安全客','Title':'有思想的安全新媒体','Href':'http://bobao.360.cn/'},
@@ -32,11 +31,14 @@ var FrontGuide = {
                 {'Name':'VC驿站','Title':'C语言 C++ MFC 编程学习交流论坛','Href':'http://www.cctry.com/'},
                 {'Name':'先知社区','Title':'安全技术社区','Href':'https://xianzhi.aliyun.com/forum/?spm=a2c0h.8049718.0.0.qoviZO'},
                 {'Name':'91Ri','Title':'91Ri','Href':'https://www.91ri.org/'},
-                {'Name':'ThreatHunter','Title':'一个专注于高级威胁发现与安全数据分析的社区','Href':'https://threathunter.org/'},
+                {'Name':'威胁猎人','Title':'一个专注于高级威胁发现与安全数据分析的社区','Href':'https://threathunter.org/'},
                 {'Name':'小密圈','Title':'连接一千位铁杆粉丝','Href':'https://wx.xiaomiquan.com/dweb/'},
                 {'Name':'乌云知识库','Title':'乌云知识库','Href':'http://www.secevery.com:4321/drops'},
                 {'Name':'破壳','Title':'授权型的乌云','Href':'https://pockr.org/'},
                 {'Name':'红日攻防实验室','Title':'红日攻防实验室','Href':'http://sec-redclub.com/'},
+                {'Name':'hackerone','Title':'hacker101','Href':'https://www.hackerone.com/hacker101/'},
+                {'Name':'hackerchine','Title':'中国骇客云平台','Href':'http://www.hackerschina.org/',"New":"1"},
+
 
             ]
             },{
