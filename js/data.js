@@ -44,6 +44,8 @@ var FrontGuide = {
                 {'Name':'securityweek','Title':'securityweek','Href':'https://www.securityweek.com/',"New":"1"},
                 {'Name':'hackernews','Title':'hackernews','Href':'http://hackernews.cc/',"New":"1"},
                 {'Name':'漏洞时代','Title':'漏洞时代','Href':'http://0day5.com/',"New":"1"},
+                {'Name':'i春秋论坛','Title':'i春秋论坛','Href':'https://bbs.ichunqiu.com/portal.php/',"New":"1"},
+                {'Name':'threatpost','Title':'threatpost','Href':'https://threatpost.com/',"New":"1"},
 
 
 
