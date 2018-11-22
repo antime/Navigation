@@ -606,6 +606,7 @@ var FrontGuide = {
                 {'Name':'崔庆才个人博客','Title':'专注于爬虫和代码开发','Href':'https://cuiqingcai.com/',"New":"1"},
                 {'Name':'Lz1yBlog','Title':'安全博客','Href':'http://www.lz1y.cn/'},
                 {'Name':'5kik','Title':'5kik','Href':'http://www.5kik.com/'},
+                {'Name':'sucppvk','Title':'一个WEB狗的自娱自乐','Href':'http://blog.sucppvk.com/index.php',"New":"1"},
 
 
 				
