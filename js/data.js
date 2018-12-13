@@ -180,6 +180,11 @@ var FrontGuide = {
                 {'Name':'360CTF','Title':'CTF训练营 - 安全客 - 有思想的安全新媒体','Href':'http://bobao.360.cn/ctf/'},
                 {'Name':'PwnHub','Title':'仰望未知的0 1世界 碰撞你的极客思维','Href':'https://pwnhub.cn/index/'}
             ]
+        },{
+            "pageT2":"导航",
+            "pageC2":[
+                {'Name':'Hacked AV','Title':'Hacked AV导航','Href':'http://www.xssav.com/','New':'1'},
+            ]
         }]},{
         "pageT1":"运维圈",
         "pageC1":[{
