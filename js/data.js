@@ -46,6 +46,9 @@ var FrontGuide = {
                 {'Name':'漏洞时代','Title':'漏洞时代','Href':'http://0day5.com/',"New":"1"},
                 {'Name':'i春秋论坛','Title':'i春秋论坛','Href':'https://bbs.ichunqiu.com/portal.php/',"New":"1"},
                 {'Name':'threatpost','Title':'threatpost','Href':'https://threatpost.com/',"New":"1"},
+                {'Name':'安全加','Title':'安全加','Href':'http://toutiao.secjia.com',"New":"1"},
+                {'Name':'securityaffairs','Title':'securityaffairs','Href':'https://securityaffairs.co',"New":"1"},
+                {'Name':'HackerNews','Title':'HackerNews','Href':'http://hackernews.cc/',"New":"1"},
 
 
 
