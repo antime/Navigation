@@ -284,6 +284,7 @@ var FrontGuide = {
                 {'Name':'awesome-python-cn','Title':'Python 资源大全中文版','Href':'https://github.com/jobbole/awesome-python-cn'},
                 {'Name':'怎么样才算是精通Python？','Title':'怎么样才算是精通Python？','Href':'https://www.zhihu.com/question/19794855#answer-47220838'},
                 {'Name':'python在线手册','Title':'python在线手册','Href':'http://shouce.jb51.net/python/'},
+                {'Name':'python官方中文手册','Title':'python官方中文手册','Href':'https://docs.python.org/zh-cn/3.7/'},
 
             ]
             },{
