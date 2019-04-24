@@ -263,7 +263,7 @@ var FrontGuide = {
                 {'Name':'号安','Title':'手机号风险识别','Href':'https://hao.secboot.com/'},
                 {'Name':'网络安全威胁信息共享平台','Title':'中国反网络病毒联盟','Href':'https://share.anva.org.cn/index'},
                 {'Name':'腾讯位置大数据平台','Title':'腾讯位置大数据平台','Href':'https://heat.qq.com/'},
-                {'Name':'VenusEye威胁情报中心','Title':'启明星辰威胁情报中心','Href':'https://venuseye.vip/'},
+                {'Name':'VenusEye威胁情报中心','Title':'启明星辰威胁情报中心','Href':'https://venuseye.vip/',"New":"1"},
 
             ]
             },{
