@@ -51,6 +51,8 @@ var FrontGuide = {
                 {'Name':'securityaffairs','Title':'securityaffairs','Href':'https://securityaffairs.co',"New":"1"},
                 {'Name':'HackerNews','Title':'HackerNews','Href':'http://hackernews.cc/',"New":"1"},
 
+                {'Name':'HackerNews','Title':'HackerNews','Href':'http://hackernews.cc/',"New":"1"},
+
 
 
             ]
